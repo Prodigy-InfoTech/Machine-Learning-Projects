@@ -11,4 +11,8 @@ We particularly appreciate well-documented and commented code to help others und
 
 Please note that by contributing to this repository, you agree to abide by the [Code of Conduct](https://github.com/Prodigy-InfoTech/.github/blob/main/CODE_OF_CONDUCT.md). We expect all contributors to be respectful and considerate of others' work and opinions. Any violations of this code will not be tolerated.
 
-Happy data science exploration and collaboration!
+## Documentation
+
+We encourage thorough documentation of your machine learning projects. Make sure to include detailed explanations of your models, data preprocessing, evaluation metrics, and results within your Jupyter Notebook. Comment your code effectively to assist others in understanding your approach. Well-documented projects are more valuable for the community, helping others learn and build upon your work.
+
+Happy machine learning exploration and collaboration!
