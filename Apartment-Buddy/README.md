@@ -22,3 +22,6 @@ Spatial Presentation: Displayed the results on a map using Folium.
 3. Red: Apartments in the cluster with index 2.
 
 These colors are used to visually differentiate between the clusters of apartments on the map. Each cluster represents a group of apartments that are similar in terms of their amenities and other factors, as determined by the K-Means clustering algorithm. The specific meaning of each cluster (e.g., proximity to amenities, budget, etc.) would depend on the characteristics of the data and the results of the clustering analysis.
+
+Name :- Anujeet Kunturkar
+Username :- @Anujeet23
