@@ -1,6 +1,6 @@
 # Iris Flower Species Classification
 
-![Iris Flowers](iris_flowers.jpeg)
+![Iris Flowers](iris.jpg)
 
 ## Overview
 
