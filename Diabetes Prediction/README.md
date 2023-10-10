@@ -2,7 +2,7 @@
 
 **GOAL**
 
-The goal is to predict if a person is having Diabetes or not using the diabetes dataset. This dataset contains features as Pregnancies, Glucose, BloodPressure, SkinThickness, BMI, Insulin, DiabetesPedegreeFunction and Age. On the basis of these feature, we have to predict the outcome i.e whether a peron has diabetes or not.
+The goal is to predict if a person is having Diabetes or not using the diabetes dataset. This dataset contains features as Pregnancies, Glucose, BloodPressure, SkinThickness, BMI, Insulin, DiabetesPedegreeFunction and Age. On the basis of this feature, we have to predict the outcome.
 
 Dataset can be downloaded from [here](https://www.kaggle.com/mathchi/diabetes-data-set)
 
