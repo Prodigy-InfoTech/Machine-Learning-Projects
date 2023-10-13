@@ -1,0 +1,52 @@
+# Document Summarization App using Language Model
+
+This is a Streamlit-based web application for document summarization using a pre-trained language model. The application takes a PDF file as input, processes it, and generates a summary using a language model. The generated summary and the original document are then displayed side by side.
+
+## Getting Started
+
+To run this application locally, follow the steps below:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/yourusername/document-summarization-app.git
+
+2. Run the following command in the terminal:
+   cd document-summarization-app
+   pip install streamlit langchain transformers
+    ```
+3. Run the following command in the terminal:
+   streamlit run app.py
+
+Usage
+Upload your PDF file by clicking the "Upload your PDF file" button.
+
+Click the "Summarize" button to generate a summary of the uploaded PDF document.
+
+The original document and the generated summary will be displayed side by side.
+
+How It Works
+The application uses the following libraries and components:
+
+Streamlit: The Python web application framework for building the user interface.
+langchain: A library for working with text data, including PDF loading and text splitting.
+transformers: Hugging Face's Transformers library, used for loading a pre-trained language model for summarization.
+PyPDFLoader: A component from langchain for loading PDF documents.
+T5Tokenizer and T5ForConditionalGeneration: Components from the transformers library for tokenization and language model loading.
+The language model is loaded and used to generate a summary of the uploaded PDF document. The generated summary is displayed alongside the original document for comparison.
+
+Contributing
+If you want to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and test them.
+Create a pull request with a clear description of your changes.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+This application was built using the Streamlit framework.
+The language model used is powered by Hugging Face's Transformers library.
+The PDF loading and text splitting are facilitated by the langchain library.
+Feel free to use, modify, and distribute this code according to the license terms.
