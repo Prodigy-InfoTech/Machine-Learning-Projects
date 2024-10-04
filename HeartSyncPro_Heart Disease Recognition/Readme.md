@@ -48,3 +48,16 @@ Click "Predict" to get the prediction result on heart disease risk.
 
 ## Model
 The Logistic Regression model was trained using health data, with features such as age, sex, resting blood pressure, cholesterol, maximum heart rate, and more. Logistic Regression was chosen for its simplicity and efficiency in binary classification tasks.
+
+## Here are some ScreenShots of the deployed model.
+
+![Screenshot 2024-10-04 234439](https://github.com/user-attachments/assets/9497601f-2748-4be8-88a0-e928b7f55525)
+
+
+![Screenshot 2024-10-04 234456](https://github.com/user-attachments/assets/4a1c92ef-2676-4e1d-a056-1758816d881b)
+
+
+![Screenshot 2024-10-04 234951](https://github.com/user-attachments/assets/f4e62e8d-272c-4017-b740-76e35e65fcf2)
+
+
+![Screenshot 2024-10-04 235016](https://github.com/user-attachments/assets/4e868434-0863-4a4a-8293-c6dbbf2d37de)
