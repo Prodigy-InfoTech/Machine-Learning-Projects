@@ -35,7 +35,7 @@ class AdaptiveConvNet(nn.Module):
         self.conv2 = nn.Conv2d(16, 32, kernel_size=3, stride=1, padding=1)
         self.conv3 = nn.Conv2d(32, 64, kernel_size=3, stride=1, padding=1)
         self.relu = nn.ReLU()
-        self.pool = nn.AdaptiveAvgPool2d((4, 4))
+        self.pool = nn.AdaptiveMaxPool2d((4, 4))
         self.dropout = nn.Dropout(0.5)
         self.flatten = nn.Flatten()
         self.fc1 = nn.Linear(64 * 4 * 4, 128)
