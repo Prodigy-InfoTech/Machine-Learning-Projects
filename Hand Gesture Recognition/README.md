@@ -78,3 +78,7 @@ The following files are stored.
 
 ### utils/cvfpscalc.py
 This is a module for FPS measurement.
+
+# Screenshots
+![Pointer](image.png)
+![Right Hand](image-1.png)
