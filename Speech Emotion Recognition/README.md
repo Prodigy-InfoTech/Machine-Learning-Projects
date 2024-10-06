@@ -11,9 +11,7 @@ This repository contains a deep learning model for **Speech Emotion Analysis** t
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 This project aims to develop an efficient model that can recognize human emotions from audio signals. Emotion recognition plays a crucial role in many applications, such as virtual assistants, healthcare, and entertainment. The model can distinguish between six different emotions: **angry, sad, fear, happy, neutral, and disgust**.
