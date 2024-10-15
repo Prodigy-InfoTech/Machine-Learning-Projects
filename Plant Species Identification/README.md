@@ -36,6 +36,7 @@ The Kaggle dataset has been used for this project. Learn more about the dataset 
 
 ## Results
 - Model train accuracy
+
 ![97% Train](model_train.png)
 
 - Test results of first 10 images in test dataset
