@@ -34,6 +34,13 @@ pip install torch torchvision numpy pandas Pillow scikit-learn
 The Kaggle dataset has been used for this project. Learn more about the dataset at:  
 [Leaf Classification Dataset on Kaggle](https://www.kaggle.com/c/leaf-classification/data)
 
+## Results
+- Model train accuracy
+![97% Train](model_train.png)
+
+- Test results of first 10 images in test dataset
+![alt text](test_results.png)
+
 ## Acknowledgments
 
 This project serves educational purposes and illustrates image classification using pre-trained models. The MobileNetV2 architecture is a widely recognized model for efficient image classification tasks.
