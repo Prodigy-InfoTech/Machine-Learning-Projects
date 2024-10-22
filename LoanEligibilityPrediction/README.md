@@ -69,6 +69,7 @@ The model is trained using Support Vector Machines (SVM). The training process i
 
 ## Prediction and Accuracy
 The trained SVM model is used to make predictions on the test set. The accuracy of the predictions is calculated using the accuracy_score metric from scikit-learn.
+![](https://github.com/Afreen-Kazi-1/Machine-Learning-Projects/blob/feature/LoanPrediction-Afreen/LoanEligibilityPrediction/Images/Screenshot%202024-10-22%20231303.png)
 
 ## How to Run
 1. Clone the repository or download the project files.
